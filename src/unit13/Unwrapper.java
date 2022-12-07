@@ -8,10 +8,8 @@ public class Unwrapper {
     Short shortValueBox;
     Integer integerValueBox;
     Long longValueBox;
-
     Float floatValueBox;
     Double doubleValueBox;
-
     Character characterValueBox;
     Boolean booleanValueBox;
 
