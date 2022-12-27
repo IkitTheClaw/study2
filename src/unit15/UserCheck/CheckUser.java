@@ -20,7 +20,7 @@ public class CheckUser {
     public static final String NOT_FOUND = "\nПользователь '%s' не найден.\n";
 
     static List<User> users = new ArrayList<>();
-    static Scanner scanner = new Scanner(System.in);
+    public static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++) {
